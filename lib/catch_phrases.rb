@@ -22,4 +22,4 @@ end
 
  
  
- 
+ all_phrases
