@@ -9,6 +9,7 @@ def toadstool
 end
 
 def link 
+end 
 def all_phrases
   mario
   toadstool
